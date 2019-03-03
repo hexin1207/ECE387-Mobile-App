@@ -16,7 +16,7 @@
         android:layout_marginEnd="99dp"
         android:layout_marginRight="99dp"
         android:layout_marginBottom="8dp"
-        android:text="This is Xin He's ECE 387 Button Its's been pressed:"
+        android:text="This is Xin He's ECE 387 Button It's been pressed:"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
